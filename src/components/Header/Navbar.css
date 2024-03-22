@@ -1,0 +1,22 @@
+.menu {
+  margin: 10px;
+  display: flex;
+  justify-content: center;
+
+}
+.buttons {
+    display: flex;
+    gap: 1rem;
+}
+.buttons button {
+    padding: 8px;
+    border-radius: 10px;
+    border: none;
+}
+.buttons button:hover {
+    cursor: pointer;
+    background-color: #CD891E;
+    color: white;
+}
+
+
